@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="true"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  ConvertEquations="true"
+  LastCollectTime="2018-10-02T10:50:20.8499965-07:00"
+  ProjectName="CentralOptions-R5"
+  ProjectFolder="C:\Users\dspencer\Documents\My Projects\CentralOptions-R5\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  LastImport="2018-10-02T10:50:25.5899705-07:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/test.docx"
+      AbsoluteSource="file:///C:/Users/dspencer/Desktop/test.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/test/Excitement with additional.htm"
+      TimeStamp="02-Oct-18 10:50:24 AM" />
+    <Url
+      Source="../TOCs/test.fltoc"
+      TimeStamp="02-Oct-18 10:50:24 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/test.css"
+      TimeStamp="02-Oct-18 10:50:24 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles />
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles />
+  <UsedParagraphStyles />
+  <UsedCharacterStyles />
+</MsWordImport>
